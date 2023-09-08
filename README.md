@@ -53,3 +53,5 @@ I have also developed a user-friendly dashboard. This dashboard provides visuali
 
 You can access the interactive dashboard here: [https://app.powerbi.com/view?r=eyJrIjoiNzkwMDVhY2EtYzg3My00MmFhLTg2YzAtYmQxNzgwMTQzNzQyIiwidCI6IjVmYjg0ZTZlLTNlOTctNDBlNC05NGVmLWE0YmVlYTg5NDkxMiIsImMiOjl9]
 
+and this is the dashboard image:
+ ![dashboard](music_gener_dashboard.png)
