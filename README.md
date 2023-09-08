@@ -47,9 +47,9 @@ Data Handling and Analysis:
 # In this notebook:
 I have meticulously handled and analyzed this dataset to prepare it for music genre classification. Data preprocessing, feature engineering, and exploratory data analysis have been conducted to better understand the data distribution and identify patterns that may be useful for genre classification.
 
-# Dashboard Creation:
+# Dashboard:
 
-To make this dataset more accessible and understandable, I have developed a user-friendly dashboard. This dashboard incorporates interactive visualizations, charts, and summaries to facilitate data exploration and analysis. Users can explore genre-specific trends, track characteristics, and the relationships between audio features and genre classification.
+I have also developed a user-friendly dashboard. This dashboard provides visualizations and summaries that facilitate a deeper understanding of the dataset, making it a powerful tool for strategic decision-making in music gener dataset.
 
-Feel free to explore this dataset and interact with the dashboard to gain insights into the world of music genre classification. Whether you are a music enthusiast, data scientist, or researcher, this dataset and the accompanying dashboard provide valuable resources for genre analysis and classification.
+You can access the interactive dashboard here: [https://app.powerbi.com/view?r=eyJrIjoiNzkwMDVhY2EtYzg3My00MmFhLTg2YzAtYmQxNzgwMTQzNzQyIiwidCI6IjVmYjg0ZTZlLTNlOTctNDBlNC05NGVmLWE0YmVlYTg5NDkxMiIsImMiOjl9]
 
