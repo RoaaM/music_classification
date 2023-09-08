@@ -2,6 +2,9 @@
 
 This dataset focuses on music genre classification, providing a rich collection of music-related information that is essential for understanding and categorizing different music genres. The dataset comprises various columns that capture artist and track details, as well as key audio features for each track. The objective is to build models that can accurately classify music tracks into their respective genres.
 
+here is the data on kaggel:
+[https://www.kaggle.com/competitions/shai-music-genre-classification/data?select=train+%281%29.csv]
+
 Dataset Columns:
 
 Id: A unique identifier for each record.
